@@ -61,6 +61,21 @@
 14. shoes layer: shoes
 
 15. socks layer: socks
+    <br>
+    <br>
+
+# Tools used
+
+1. lasso
+2. texture brush
+3. hard brush
+4. soft brush
+5. gradient tool
+6. eraser tool
+7. layers
+8. pixel lock
+   <br>
+   <br>
 
 # Notice
 
