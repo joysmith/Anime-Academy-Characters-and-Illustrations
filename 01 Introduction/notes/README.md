@@ -62,16 +62,6 @@
 
 15. socks layer: socks
 
-16.
-
-- <img src="image%20notes/2%20developer%20perspective.png" width="500">
-     <br>
-     <br>
-
-10. What are the most common [mime type](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types "mdn") use in http headers
-    <br>
-    <br>
-
 # Notice
 
 1. Opacity: 100%
